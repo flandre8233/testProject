@@ -143,7 +143,7 @@ public class gameController : SingletonMonoBehavior<gameController> {
         globalUpdateManager.instance.UnregisterUpdateDg(ToUpdate);
     }
 
-    int spawnNumber = 15;
+    int spawnNumber = 150;
     void autoSpawn() {
         timer1 += globalVarManager.deltaTime;
         timer2 += globalVarManager.deltaTime;
