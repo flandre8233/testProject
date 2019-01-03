@@ -189,7 +189,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   HP: 5
-  Damage: 1
+  Damage: 2
   attackCooldown: 2
   isFriendly: 1
   alreadyDead: 0

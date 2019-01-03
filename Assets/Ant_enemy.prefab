@@ -188,8 +188,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55a71d39de72b9c42ad0e730e6bdf2cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HP: 20
-  Damage: 1
+  HP: 5
+  Damage: 2
   attackCooldown: 2
   isFriendly: 0
   alreadyDead: 0
